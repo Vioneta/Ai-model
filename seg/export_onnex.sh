@@ -1,0 +1,1 @@
+python3 export.py --weights ./yolov7-seg.pt  --iou-thres 0.45 --conf-thres 0.25  --include onnx
